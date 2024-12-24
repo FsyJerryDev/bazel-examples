@@ -14,7 +14,8 @@ The basic requirements are:
 
 - Microsoft Visual C++ Redistributable (you can download from the following link [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170))
 
-    - 
+    - For Windows 64, you can select the executable of "X64" in the below image:
+    
 
 - Bazel (you can download Bazel from the following link [Downloading Bazel](https://github.com/bazelbuild/bazel/releases))
 
